@@ -1,7 +1,5 @@
 ### Boas vindas ao meu perfil 💙💙
 
-Here are some ideas to get you started:
-
 - Estou estudando na [alura](https://www.alura.com.br/)
 -  Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
